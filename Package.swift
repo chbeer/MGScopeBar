@@ -25,6 +25,9 @@ let package = Package(
         .target(
             name: "MGScopeBar",
             dependencies: [],
+            exclude: [
+                "Resources/Base.lproj/MainMenu.xib"
+            ],
             resources: [
                 .process("Resources")
             ]),

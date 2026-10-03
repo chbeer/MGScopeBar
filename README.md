@@ -15,9 +15,8 @@ MGScopeBar is a control which provides a "scope bar" or "filter bar", much like 
 What platforms does it support?
 -------------------------------
 
-MGScopeBar supports Mac OS X 10.5 (Leopard) or later.
-
-
+MGScopeBar supports Mac OS X 10.5 (Leopard) or later when integrated directly from source files.
+The Swift Package requires macOS 11 or later.
 
 What are the licensing requirements?
 ------------------------------------

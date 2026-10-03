@@ -5,10 +5,10 @@
 //  Created by Christian Beer on 29.08.22.
 //
 
-#ifndef Header_h
-#define Header_h
+#ifndef MGSCOPEBAR_PUBLIC_H
+#define MGSCOPEBAR_PUBLIC_H
 
 #include "../MGScopeBar.h"
 #include "../MGRecessedPopUpButtonCell.h"
 
-#endif /* Header_h */
+#endif /* MGSCOPEBAR_PUBLIC_H */
